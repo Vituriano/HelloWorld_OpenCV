@@ -1,7 +1,7 @@
 # Obejetc Detection
 Holiday project to make a pilula for my squad in CITi. This project run in a docker container and detect objects with OpenCV in C++.
 
-# Run Project in you machine
+# Run Project in your machine
 1- Run de command bellow and waiting a many seconds:
 ```sh
 make build
